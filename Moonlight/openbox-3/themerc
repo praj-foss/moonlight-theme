@@ -1,0 +1,114 @@
+# Moonlight theme for Openbox
+# Copyright (C) 2017 Priyadarshi Raj (github.com/praj-foss)
+
+
+###### WINDOW SETTINGS
+
+border.width: 1
+padding.width: 8
+padding.height: 5
+window.client.padding.width: 0
+window.client.padding.height: 0
+window.handle.width: 0
+
+window.active.border.color: #682c2c
+window.active.title.separator.color: #1c1a1a
+window.active.client.color: #1c1a1a
+window.active.label.text.color: #aaa9a9
+
+window.inactive.border.color: #682c2c
+window.inactive.title.separator.color: #1c1a1a
+window.inactive.client.color: #1c1a1a
+window.inactive.label.text.color: #aaa9a9
+
+window.label.text.justify: left
+
+window.active.button.unpressed.image.color: #aaa9a9
+window.active.button.pressed.image.color: #7a2c2c
+window.active.button.disabled.image.color: #515151
+window.active.button.hover.image.color: #fc493c
+window.active.button.toggled.unpressed.image.color: #7a2c2c
+window.active.button.toggled.pressed.image.color: #7a2c2c
+window.active.button.toggled.hover.image.color: #fc493c
+
+window.inactive.button.unpressed.image.color: #aaa9a9
+window.inactive.button.pressed.image.color: #7a2c2c
+window.inactive.button.disabled.image.color: #515151
+window.inactive.button.hover.image.color: #fc493c
+window.inactive.button.toggled.unpressed.image.color: #7a2c2c
+window.inactive.button.toggled.pressed.image.color: #7a2c2c
+window.inactive.button.toggled.hover.image.color: #fc493c
+
+window.active.title.bg: flat solid
+window.active.title.bg.color: #1c1a1a
+window.active.label.bg: flat solid
+window.active.label.bg.color: #1c1a1a
+
+window.inactive.title.bg: flat solid
+window.inactive.title.bg.color: #1c1a1a
+window.inactive.label.bg: flat solid
+window.inactive.label.bg.color: #1c1a1a
+
+window.active.button.unpressed.bg: parentrelative
+window.active.button.pressed.bg: parentrelative
+window.active.button.hover.bg: parentrelative
+window.active.button.disabled.bg: parentrelative
+window.active.button.toggled.unpressed.bg: parentrelative
+window.active.button.toggled.pressed.bg: parentrelative
+window.active.button.toggled.hover.bg: parentrelative
+
+window.inactive.button.unpressed.bg: parentrelative
+window.inactive.button.pressed.bg: parentrelative
+window.inactive.button.hover.bg: parentrelative
+window.inactive.button.disabled.bg: parentrelative
+window.inactive.button.toggled.unpressed.bg: parentrelative
+window.inactive.button.toggled.pressed.bg: parentrelative
+window.inactive.button.toggled.hover.bg: parentrelative
+
+
+###### MENU SETTINGS
+
+menu.border.width: 1
+menu.border.color: #682c2c
+
+menu.separator.color: #682c2c
+menu.separator.width: 1
+menu.separator.padding.width: 0
+menu.separator.padding.height: 0
+
+menu.overlap.x: -5
+menu.overlap.y: 0
+
+menu.title.bg: flat solid
+menu.title.bg.color: #1c1a1a
+menu.title.text.color: #aaa9a9
+menu.title.text.justify: center
+
+menu.items.bg: flat solid
+menu.items.bg.color: #1c1a1a
+menu.items.text.color: #aaa9a9
+menu.items.active.bg: flat solid
+menu.items.active.bg.color: #fc493c
+menu.items.active.text.color: #d2d2d2
+menu.items.active.disabled.text.color: #515151
+menu.items.disabled.text.color: #515151
+
+
+###### ON-SCREEN DISPLAY (OSD) SETTINGS
+
+osd.border.width: 1
+osd.border.color: #682c2c
+
+osd.bg: flat solid
+osd.bg.color: #1c1a1a
+
+osd.label.bg: flat solid
+osd.label.bg.color: #1c1a1a
+osd.label.text.color: #b5b5b5
+
+osd.hilight.bg: flat solid
+osd.hilight.bg.color: #d2d2d2
+
+osd.unhilight.bg: flat solid
+osd.unhilight.bg.color: #682c2c
+
